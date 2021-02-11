@@ -5,13 +5,9 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 index = {"Ability": "01_magic.ipynb",
          "Character": "01_magic.ipynb",
          "Mage": "01_magic.ipynb",
-         "Demon": "01_magic.ipynb",
-         "show_examples": "02_as_utils.ipynb",
-         "show": "02_as_utils.ipynb",
-         "show_random": "02_as_utils.ipynb"}
+         "Demon": "01_magic.ipynb"}
 
-modules = ["magic.py",
-           "as_utils.py"]
+modules = ["magic.py"]
 
 doc_url = "https://asrishaheem.github.io/segmentation/"
 
