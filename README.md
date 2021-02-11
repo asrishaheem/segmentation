@@ -183,9 +183,7 @@ jupyter notebook
 
 * Edit/create new packages as needed
 
-```python
-hello_world()
 ```
-
-    Hello World
-    
+from segmentation.magic import *
+ability = Ability(100,"fire")
+```

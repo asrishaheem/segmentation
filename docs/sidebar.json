@@ -3,6 +3,7 @@
     "Overview": "/",
     "module name here": "core.html",
     "Project name here": "magic.html",
-    "Machine Learning nbdev template": "index-checkpoint.html"
+    "Machine Learning nbdev template": "index-checkpoint.html",
+    "Utility function": "as_utils.html"
   }
 }
