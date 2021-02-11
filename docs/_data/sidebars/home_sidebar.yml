@@ -16,9 +16,6 @@ entries:
       title: Project name here
       url: magic.html
     - output: web,pdf
-      title: Machine Learning nbdev template
-      url: index-checkpoint.html
-    - output: web,pdf
       title: Utility function
       url: as_utils.html
     output: web
