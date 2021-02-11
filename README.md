@@ -183,7 +183,7 @@ jupyter notebook
 
 * Edit/create new packages as needed
 
-```
+```python
 hello_world()
 ```
 
